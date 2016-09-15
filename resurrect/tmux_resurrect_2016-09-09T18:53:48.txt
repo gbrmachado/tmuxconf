@@ -1,0 +1,14 @@
+pane	5	0	:zsh	1	:*	0	:/home/goma	1	zsh	:
+pane	cachacagestor	0	:zsh	0	:	0	:/home/goma/Programming/webSite	0	node	:node /usr/bin/live-server
+pane	cachacagestor	0	:zsh	0	:	1	:/home/goma/Programming/webSite	1	zsh	:
+pane	cachacagestor	1	:vim-site	1	:*	0	:/home/goma/Programming/webSite/dashboard	0	nvim	:nvim index.html
+pane	cachacagestor	1	:vim-site	1	:*	1	:/home/goma/.config/nvim/config	1	zsh	:
+pane	cachacagestor	2	:control-parse	0	:-	0	:/home/goma/Programming/parse_server	1	node	:node /usr/bin/nodemon index.js
+pane	cachacagestor	2	:control-parse	0	:-	1	:/home/goma/Programming/parse_server	0	zsh	:
+pane	cachacagestor	3	:vim parse-server	0	:	0	:/home/goma/Programming/parse_server	1	zsh	:
+window	5	0	1	:*	ae5e,80x23,0,0,1
+window	cachacagestor	0	0	:	9bab,212x52,0,0[212x18,0,0,2,212x33,0,19,3]
+window	cachacagestor	1	1	:*	7404,212x52,0,0{106x52,0,0,4,105x52,107,0,8}
+window	cachacagestor	2	0	:-	9332,212x52,0,0[212x24,0,0,5,212x27,0,25,6]
+window	cachacagestor	3	0	:	b5e4,212x52,0,0,7
+state	cachacagestor	5

@@ -1,0 +1,19 @@
+pane	0	0	:zsh	1	:*	0	:/home/goma	1	zsh	:
+pane	2	0	:zsh	1	:*	0	:/home/goma	1	zsh	:
+pane	5	0	:zsh	1	:*	0	:/home/goma	1	zsh	:
+pane	cachacagestor	0	:zsh	0	:	0	:/home/goma	0	zsh	:
+pane	cachacagestor	0	:zsh	0	:	1	:/home/goma/Programming	1	zsh	:
+pane	cachacagestor	1	:vim-site	0	:	0	:/home/goma	1	zsh	:
+pane	cachacagestor	2	:control-parse	1	:*	0	:/home/goma/Android/Sdk/tools/lib	1	qemu-system-x86_64	:/opt/android-sdk/tools/qemu/linux-x86_64/qemu-system-x86_64 -avd Nexus_5X_API_22 -use-system-libs
+pane	cachacagestor	2	:control-parse	1	:*	1	:/home/goma	0	zsh	:
+pane	cachacagestor	3	:vim parse-server	0	:	0	:/home/goma/Programming/CachacaGestor/parse_server	1	zsh	:
+pane	cachacagestor	4	:sh	0	:-	0	:/home/goma/Programming/CachacaGestor/Apps/cachaca-coleta	1	sh	:/bin/sh /usr/bin/android-studio
+window	0	0	1	:*	b6fe,105x52,0,0,1
+window	2	0	1	:*	b6ff,105x52,0,0,2
+window	5	0	1	:*	b700,105x52,0,0,3
+window	cachacagestor	0	0	:	99b4,212x57,0,0[212x21,0,0,4,212x35,0,22,5]
+window	cachacagestor	1	0	:	c9e3,212x57,0,0,6
+window	cachacagestor	2	1	:*	0d3d,212x57,0,0[212x27,0,0,7,212x29,0,28,8]
+window	cachacagestor	3	0	:	c9e6,212x57,0,0,9
+window	cachacagestor	4	0	:-	651f,212x57,0,0,10
+state	cachacagestor	2

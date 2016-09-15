@@ -1,0 +1,17 @@
+pane	0	0	:zsh	1	:*	0	:/home/goma	1	zsh	:
+pane	2	0	:zsh	1	:*	0	:/home/goma	1	zsh	:
+pane	5	0	:zsh	1	:*	0	:/home/goma	1	zsh	:
+pane	cachacagestor	0	:zsh	0	:-	0	:/home/goma	0	zsh	:
+pane	cachacagestor	0	:zsh	0	:-	1	:/home/goma/Programming	1	zsh	:
+pane	cachacagestor	1	:vim-site	1	:*	0	:/home/goma	1	zsh	:
+pane	cachacagestor	2	:control-parse	0	:	0	:/home/goma	1	zsh	:
+pane	cachacagestor	2	:control-parse	0	:	1	:/home/goma	0	zsh	:
+pane	cachacagestor	3	:vim parse-server	0	:	0	:/home/goma	1	zsh	:
+window	0	0	1	:*	b6fe,105x52,0,0,1
+window	2	0	1	:*	b6ff,105x52,0,0,2
+window	5	0	1	:*	b700,105x52,0,0,3
+window	cachacagestor	0	0	:-	99b4,212x57,0,0[212x21,0,0,4,212x35,0,22,5]
+window	cachacagestor	1	1	:*	c9e3,212x57,0,0,6
+window	cachacagestor	2	0	:	ddbf,105x52,0,0[105x24,0,0,7,105x27,0,25,8]
+window	cachacagestor	3	0	:	b706,105x52,0,0,9
+state	cachacagestor	2
